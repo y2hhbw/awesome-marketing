@@ -322,6 +322,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
 
+# Product Launch Platforms
+
+- [awesome-indie-launch](https://github.com/y2hhbw/awesome-indie-launch) - A curated list of 222+ places where indie hackers can launch and promote startups, including launch platforms and Reddit communities.
+
 
 # Tweets
 
